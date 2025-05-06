@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RetentionXT | Klaviyo CRM Pros</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #0d0225;
+      color: white;
+      line-height: 1.6;
+    }
+    header {
+      background: #0d0225;
+      padding: 4rem 2rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+    }
+    header p {
+      max-width: 700px;
+      margin: 1rem auto;
+      font-size: 1.125rem;
+    }
+    .cta-button {
+      background-color: #eb1c8f;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      font-weight: 600;
+      text-decoration: none;
+      border-radius: 5px;
+      display: inline-block;
+      margin-top: 1rem;
+    }
+    .section {
+      padding: 4rem 2rem;
+      text-align: center;
+    }
+    .section h2 {
+      font-size: 2rem;
+      margin-bottom: 2rem;
+    }
+    .features, .services, .testimonials {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 2rem;
+      justify-content: center;
+    }
+    .card {
+      background: #1a0b3a;
+      padding: 2rem;
+      border-radius: 10px;
+      width: 300px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    }
+    .card h3 {
+      margin-top: 0;
+      color: #eb1c8f;
+    }
+    footer {
+      background: #0b011f;
+      padding: 2rem;
+      text-align: center;
+      font-size: 0.875rem;
+    }
+    a {
+      color: #eb1c8f;
+    }
+
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 2rem;
+      }
+      header p {
+        font-size: 1rem;
+      }
+      .card {
+        width: 90%;
+      }
+      .section {
+        padding: 2rem 1rem;
+      }
+      .section h2 {
+        font-size: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Hire the Klaviyo CRM Pros at RetentionXT</h1>
+  <p>RetentionXT helps ecommerce brands increase LTV, reduce churn, and make more money from every email and SMS sent—without needing an in-house team.</p>
+  <a href="#" class="cta-button">📩 Book a Free Retention Audit</a>
+</header>
+
+<section class="section">
+  <h2>Why Brands Choose RetentionXT</h2>
+  <div class="features">
+    <div class="card">
+      <h3>#1 Klaviyo Only</h3>
+      <p>We don’t dabble—we specialize. Every audit, flow, and campaign is rooted in platform expertise.</p>
+    </div>
+    <div class="card">
+      <h3>#2 Top 1% Team</h3>
+      <p>You’ll work directly with Klaviyo veterans who’ve helped scale brands to 7–8 figures in retention revenue.</p>
+    </div>
+    <div class="card">
+      <h3>#3 Feels Like In-House</h3>
+      <p>Slack updates, async videos, shared dashboards—we become part of your team.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <h2>Klaviyo Department On-Demand</h2>
+  <div class="services">
+    <div class="card">
+      <h3>Build or Redesign Signup Flows</h3>
+      <p>Custom-tailored popups, forms, and CTAs that convert.</p>
+    </div>
+    <div class="card">
+      <h3>Launch High-Performing Flows</h3>
+      <p>From welcome to winback, every flow is built to drive retention.</p>
+    </div>
+    <div class="card">
+      <h3>Design and Send Campaigns</h3>
+      <p>Beautifully branded emails that turn subscribers into buyers.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <h2>Real Reviews, Real Results</h2>
+  <div class="testimonials">
+    <div class="card">
+      <h3>Jessica @ WellnessCo</h3>
+      <p>We recovered $22K/month in abandoned carts within 30 days. RetentionXT is a retention engine.</p>
+    </div>
+    <div class="card">
+      <h3>Mark @ GearSavvy</h3>
+      <p>Our flows now drive 34% of total revenue—without discounts. Game-changing work.</p>
+    </div>
+    <div class="card">
+      <h3>Liam @ ModernSupps</h3>
+      <p>Clear wins, strategic insights, and hands-on execution. They run our CRM like it’s their own.</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>&copy; 2025 RetentionXT. All rights reserved. | <a href="#">Contact</a> | <a href="#">Privacy Policy</a></p>
+</footer>
+
+</body>
+</html>
